@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    font-family: sans-serif;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 52px;
+    font-weight: 700;
+    color: orange;
+    margin-top: 150px;
+    margin-bottom: 25px;
+}
+
+.btn{
+    display: block;
+    margin: 0 auto;
+    text-transform: capitalize;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    background: linear-gradient(90deg, rgba(23,17,116,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    color: #fff;
+    border-radius: 18px;
+    padding: 15px 20px;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
